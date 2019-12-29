@@ -1,7 +1,7 @@
 Operating requirements :
 apt-get install python3.7
-apt-get install python3.7-pip
-pip3.7 install google
+apt-get install python3-pip
+pip3 install google
 =========================
 How to use?
 
