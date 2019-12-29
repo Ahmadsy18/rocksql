@@ -7,7 +7,7 @@ How to use?
 
 cd rocksql
 chmod +x *
-./run
+./run.sh
             
 
 ========================
