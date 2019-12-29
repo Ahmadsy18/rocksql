@@ -11,5 +11,6 @@ chmod +x *
             
 
 ========================
-Design : Ahmad Alhaj Ahmad
+"I am not responsible for any unlawful behavior using this script"
+Design : Ahmad
       
